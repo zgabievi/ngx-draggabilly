@@ -1,0 +1,23 @@
+{
+  "name": "ngx-draggabilly",
+  "version": "0.1.0",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0",
+    "rxjs": "^6.0.0"
+  },
+  "dependencies": {
+    "draggabilly": "^2.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zgabievi/ngx-draggabilly.git"
+  },
+  "keywords": [
+    "drag",
+    "drop",
+    "dragndrop"
+  ],
+  "author": "Zura Gabievi <zura.gabievi@gmail.com>",
+  "license": "MIT"
+}
